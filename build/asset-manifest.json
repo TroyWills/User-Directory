@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/User-Directory/static/css/main.31ec2cc2.chunk.css",
+    "main.js": "/User-Directory/static/js/main.bfa72ed7.chunk.js",
+    "main.js.map": "/User-Directory/static/js/main.bfa72ed7.chunk.js.map",
+    "runtime~main.js": "/User-Directory/static/js/runtime~main.2facd29f.js",
+    "runtime~main.js.map": "/User-Directory/static/js/runtime~main.2facd29f.js.map",
+    "static/css/2.9233ae65.chunk.css": "/User-Directory/static/css/2.9233ae65.chunk.css",
+    "static/js/2.0a6ff45d.chunk.js": "/User-Directory/static/js/2.0a6ff45d.chunk.js",
+    "static/js/2.0a6ff45d.chunk.js.map": "/User-Directory/static/js/2.0a6ff45d.chunk.js.map",
+    "index.html": "/User-Directory/index.html",
+    "precache-manifest.9aaf483bdc850ec6763327b6ca594972.js": "/User-Directory/precache-manifest.9aaf483bdc850ec6763327b6ca594972.js",
+    "service-worker.js": "/User-Directory/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/User-Directory/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.31ec2cc2.chunk.css.map": "/User-Directory/static/css/main.31ec2cc2.chunk.css.map"
+  }
+}
