@@ -1,1 +1,0 @@
-Deployed on Heroku `https://user-directory-homework.herokuapp.com/`
