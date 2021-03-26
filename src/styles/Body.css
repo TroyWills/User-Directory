@@ -1,6 +1,8 @@
 .form-control {
     text-align: center;
     border: 2px solid rgb(13, 13, 71);
+    height: 50px;
+    margin-top: 12.5px;
 }
 
 .nav-item {
@@ -10,7 +12,7 @@
 .navbar {
     border-top: 2px solid rgb(13,13,71);
     border-bottom: 2px solid rgb(13,13,71);
-    margin: 10px;
+    margin: 20px;
     background-color: rgba(255, 255, 255, 0.199);
 }
 
@@ -18,4 +20,11 @@ a {
     color: rgb(13, 13, 71); 
     text-decoration: none;
     font-weight: bold;
+    font-size: 1rem;
+}
+
+.searchBox {
+    background-color: rgba(228, 228, 228, 0.842);
+    margin-top: 20px;
+    height: 75px;
 }

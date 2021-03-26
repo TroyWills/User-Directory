@@ -1,7 +1,7 @@
 import React from "react";
-import "../styles/SearchBox.css"
+import "../styles/Body.css"
 
-function SearchBox() {
+function Body() {
 
     return (
 
@@ -40,4 +40,4 @@ function SearchBox() {
 
 }
 
-export default SearchBox;
+export default Body;
