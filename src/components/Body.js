@@ -1,5 +1,6 @@
 import React from "react";
-import "../styles/Body.css"
+import "../styles/Body.css";
+import ApiData from "./ApiData";
 
 function Body() {
 
@@ -31,6 +32,8 @@ function Body() {
         <a class="nav-item col-md-2" href="#">Disabled</a>
 
 </div>
+
+<ApiData />
 
 </div>
 
