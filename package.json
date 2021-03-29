@@ -1,6 +1,6 @@
 {
   "name": "19-user-directory",
-  "homepage": "https://TroyWills.github.io/user-directory",
+  // "homepage": "https://TroyWills.github.io/user-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
