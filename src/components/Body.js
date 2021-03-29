@@ -25,10 +25,10 @@ function Body() {
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button> 
-        <a class="nav-item col-md-2">Image</a>
-        <a class="nav-item col-md-3" href="#">Name</a>
-        <a class="nav-item col-md-2" href="#">Phone</a>
-        <a class="nav-item col-md-2" href="#">Email</a> 
+        <a class="nav-item col-md-3" href="#">Email</a>
+        <a class="nav-item col-md-2" href="#">Name</a>
+        <a class="nav-item col-md-2" href="#">Phone</a> 
+        <a class="nav-item col-md-2" href="#">Age</a> 
 
 </div>
 

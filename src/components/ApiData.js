@@ -47,7 +47,8 @@ class ApiData extends React.Component {
               <div>
              <table>
                {results.map(results => (
-                   
+                  
+                  
     
                 <tr>
                     <td key={results.email}>
